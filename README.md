@@ -1,4 +1,4 @@
-# console_text_tile_editor
+# console-text-tile-editor
 
 This program is written in C++.<br>
 To run this program,<br>
